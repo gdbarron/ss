@@ -1,4 +1,4 @@
-
+<a href="mailto:feedback@sangwichspot.com">
 <img width="300" height="300" src="./res/sangwich-bow.jpg">
+</a>
 
-[Contact Us](mailto:feedback@sangwichspot.com?subject=Contact%20from%20website)
